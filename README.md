@@ -10,7 +10,7 @@ For each of the following, create a class with at least the method described and
 I should be able to create and use a food item as follows
 
 ```
-pb_apple = new Food("Cut apples.\nPlace apples and some peanut butter on platter with a knife.")
+pb_apple = Food("Cut apples.\nPlace apples and some peanut butter on platter with a knife.")
 pb_apple.print_recipe()
 ```
 
