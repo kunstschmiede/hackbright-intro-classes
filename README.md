@@ -1,7 +1,7 @@
 # Classes Exercise
 *Complete these in files in this repo called `food.py`, `animals.py` and `plants.py`, respectively.*
 
-For each of the following, create a class with at least the method describe and one other, storing any attributes necessary.  Instantiate each of them with three different concrete examples.  Consider what things you might want to know about each item that are common to all things in that category (e.g. every food item has a recipe, but the recipe is different for each item).
+For each of the following, create a class with at least the method described and one other, storing any attributes necessary.  Instantiate each of them with three different concrete examples.  Consider what things you might want to know about each item that are common to all things in that category (e.g. every food item has a recipe, but the recipe is different for each item).
 
 ## Food
 
